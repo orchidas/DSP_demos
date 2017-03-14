@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Prepared by Iran Roman %
+%       Music 320A       %
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+
+% a demo on Quality Factor
+
 clear all
 close all
 clc
