@@ -10,10 +10,10 @@ close all;
 clc;
 
 % loading a speech signal
-[x,fs] = audioread('w26ah.wav');
+[x,fs] = audioread('w26ah.wav'); % source https://homepages.wmich.edu/~hillenbr/voweldata.html
 
 % listen to the signal
-soundsc(x,fs)
+soundsc(x,fs) 
 
 % see the signal in the time domain
 time = (0:length(x)-1)/fs;
